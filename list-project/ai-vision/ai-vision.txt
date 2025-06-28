@@ -1,0 +1,1 @@
+Create a comprehensive web application for intelligent document classification using OCR technology. The application serves as a frontend interface for existing APIs that process images through OpenCV, extract text using Tesseract OCR, analyze content with AI Vision, and store results in a database.

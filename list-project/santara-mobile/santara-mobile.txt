@@ -1,0 +1,6 @@
+SANTARA (Sistem Agrikultur Nusantara Terintegrasi) adalah platform digital yang menghubungkan 4 institusi pemerintah utama: BMKG, PUPR, BAPENAS, dan Kementerian Pertanian untuk mencapai swasembada pangan Indonesia 2025. Sistem ini menggunakan arsitektur modern dengan SurrealDB sebagai database multi-model, Rust untuk backend performance-critical, SolidJS untuk frontend yang reactive, dan Docker/Jenkins untuk DevOps automation.
+
+# SANTARA Mobile Application - Comprehensive Development Prompt
+
+## Project Overview
+SANTARA Mobile is a comprehensive mobile application designed for agricultural extension workers and farmers, focusing on AI-assisted data collection, real-time monitoring, and field management. The app aims to support Indonesia's 2025 food self-sufficiency goals through efficient data collection and analysis.

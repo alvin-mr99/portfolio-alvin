@@ -1,0 +1,2 @@
+**Sistem Ticketing Takaful** yang lengkap menggunakan **SolidJS** untuk Perusahaan Asuransi Takaful. Aplikasi ini adalah solusi berbasis teknologi untuk mengelola tiket terkait klaim, permintaan layanan, dan pertanyaan dengan fitur **eskalasi otomatis**.
+

@@ -1,0 +1,1 @@
+Create a sophisticated AI-powered project management dashboard for CLARITY (Collaborative Location Analytics and Reporting Intelligence Tool) using SolidJS, AmCharts, MapLibre, and modern web technologies. This dashboard serves Telkom Akses for monitoring telecommunications infrastructure projects across Indonesia.

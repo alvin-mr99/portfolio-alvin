@@ -1,0 +1,4 @@
+# Prompt untuk Aplikasi UIN Bike Modern dengan SolidJS & Capacitor
+
+## Overview Aplikasi
+Buatlah aplikasi **UIN Bike** (Universitas Islam Negeri Syarif Hidayatullah Bike Sharing) yang modern, futuristik, dan user-friendly menggunakan SolidJS dengan Capacitor untuk deployment ke web dan Android dalam satu source code. Aplikasi ini adalah sistem bike sharing sepeda listrik ramah lingkungan untuk civitas akademika UIN Jakarta dengan desain yang sangat menarik, animasi smooth, dan UX yang intuitif.

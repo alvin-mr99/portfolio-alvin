@@ -1,0 +1,1 @@
+aplikasi website dashboard IoT untuk Kementrian Kelautan dan Perikanan (KKP) yang sangat canggih, modern, dan profesional menggunakan **SolidJS** dengan tema **Dark Ocean Dashboard**. Aplikasi harus memiliki UI/UX yang sangat menarik, intuitif, dan mudah digunakan.

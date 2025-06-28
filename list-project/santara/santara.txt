@@ -1,0 +1,4 @@
+# SANTARA Website Platform - Comprehensive Development Prompt
+
+## Project Overview
+SANTARA (Sistem Agrikultur Nusantara Terintegrasi) is a comprehensive digital platform integrating four major government institutions: BMKG, PUPR, BAPENAS, and the Ministry of Agriculture to achieve Indonesia's 2025 food self-sufficiency goals. The platform focuses on rice production monitoring, water resource management, and agricultural data collection.

@@ -1,0 +1,4 @@
+Prompt untuk Admin Dashboard UIN Bike dengan SolidJS
+Overview Aplikasi Admin
+Buatlah UIN Bike Admin Dashboard yang modern, komprehensif, dan powerful menggunakan SolidJS dengan TypeScript untuk mengelola seluruh ekosistem bike sharing UIN Jakarta. Dashboard ini dirancang untuk administrator, operator lapangan, dan manajemen dengan interface yang profesional namun tetap mempertahankan identitas visual Islami modern UIN Jakarta.
+Teknologi Stack

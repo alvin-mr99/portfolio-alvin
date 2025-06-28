@@ -1,0 +1,3 @@
+Sistem Informasi Transportasi Terintegrasi Berbasis Web dengan Visualisasi Data Spasial
+
+Mengembangkan aplikasi web untuk visualisasi dan analisis data transportasi berbasis spasial menggunakan PostGIS. Aplikasi ini akan membantu stakeholder dalam melihat kondisi, performa, dan perencanaan jaringan transportasi dengan antarmuka interaktif berbasis peta dan tabel.

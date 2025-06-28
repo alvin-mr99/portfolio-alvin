@@ -1,0 +1,4 @@
+Aplikasi M-Paspor Modern dengan SolidJS & Capacitor
+Overview Aplikasi
+Buatlah aplikasi M-Paspor (Mobile Passport) yang modern, futuristik, dan user-friendly menggunakan SolidJS dengan Capacitor untuk deployment ke web dan Android dalam satu source code. Aplikasi ini harus memiliki desain yang sangat menarik, animasi smooth, dan UX yang intuitif.
+Teknologi Stack

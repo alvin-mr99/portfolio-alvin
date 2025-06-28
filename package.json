@@ -1,0 +1,26 @@
+{
+  "name": "modern-portfolio",
+  "version": "1.0.0",
+  "description": "Modern Portfolio Website with Dark Theme",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "solid-js": "^1.8.15",
+    "solid-icons": "^1.1.0",
+    "aos": "^2.3.4",
+    "typed.js": "^2.0.16"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4",
+    "vite-plugin-solid": "^2.10.2",
+    "typescript": "^5.3.3",
+    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "@types/aos": "^3.0.7"
+  }
+} 
