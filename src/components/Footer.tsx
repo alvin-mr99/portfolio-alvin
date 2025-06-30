@@ -23,10 +23,10 @@ const Footer: Component = () => {
   ];
 
   const socialLinks = [
-    { icon: IoLogoGithub, url: 'https://github.com/alvin-developer', name: 'GitHub' },
-    { icon: IoLogoLinkedin, url: 'https://linkedin.com/in/alvin-developer', name: 'LinkedIn' },
-    { icon: IoLogoTwitter, url: 'https://twitter.com/alvin_developer', name: 'Twitter' },
-    { icon: IoLogoInstagram, url: 'https://instagram.com/alvin.developer', name: 'Instagram' },
+    { icon: IoLogoGithub, url: 'https://github.com/', name: 'GitHub' },
+    { icon: IoLogoLinkedin, url: 'https://linkedin.com/in/', name: 'LinkedIn' },
+    { icon: IoLogoTwitter, url: 'https://twitter.com', name: 'Twitter' },
+    { icon: IoLogoInstagram, url: 'https://instagram.com/', name: 'Instagram' },
   ];
 
   const scrollToSection = (href: string) => {
