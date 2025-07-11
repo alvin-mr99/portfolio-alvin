@@ -119,6 +119,22 @@ const Projects: Component = () => {
       ]
     },
     {
+      id: 'lifetools-mobile',
+      title: 'LifeTools Mobile',
+      description: 'Mobile application for Lifetools Mobile',
+      category: 'mobile',
+      type: 'Mobile Application',
+      technologies: ['SolidJS', 'Capacitor', 'AI Integration', 'Offline Data Sync', 'Government APIs'],
+      features: ['AI-Assisted Data Collection', 'Field Management', 'Biometric Authentication', 'Survey Management'],
+      status: 'Production',
+      year: '2024',
+      client: 'Government of Indonesia',
+      image: '/list-project/lifetools-mobile/image.png',
+      gallery: [
+        '/list-project/lifetools-mobile/image.png' 
+      ]
+    },
+    {
       id: 'santara',
       title: 'SANTARA Platform',
       description: 'Comprehensive digital platform integrating BMKG, PUPR, BAPENAS, and Ministry of Agriculture for Indonesia\'s 2025 food self-sufficiency goals.',
