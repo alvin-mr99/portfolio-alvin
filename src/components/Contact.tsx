@@ -36,25 +36,25 @@ const Contact: Component = () => {
     {
       icon: IoLogoGithub,
       name: 'GitHub',
-      url: 'https://github.com/alvin-developer',
+      url: 'https://github.com',
       color: 'hover:text-gray-400'
     },
     {
       icon: IoLogoLinkedin,
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/alvin-developer',
+      url: 'https://linkedin.com',
       color: 'hover:text-blue-400'
     },
     {
       icon: IoLogoTwitter,
       name: 'Twitter',
-      url: 'https://twitter.com/alvin_developer',
+      url: 'https://twitter.com',
       color: 'hover:text-sky-400'
     },
     {
       icon: IoLogoInstagram,
       name: 'Instagram',
-      url: 'https://instagram.com/alvin.developer',
+      url: 'https://instagram.com',
       color: 'hover:text-pink-400'
     }
   ];
